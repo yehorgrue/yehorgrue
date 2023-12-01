@@ -1,16 +1,38 @@
-### Hi there 👋
+# Hi there, I'm [Your Name] 👋
 
-<!--
-**yehorgrue/yehorgrue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
 
-Here are some ideas to get you started:
+I'm a passionate Python, AI, and Full Stack Developer...
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 I’m currently working on A specific fastapi backend...
+
+🌱 I’m currently learning stable diffusion with python...
+
+👯 I’m looking to collaborate on AI-based CRM system...
+
+🤔 I’m looking for help with low level of ML algorithm...
+
+💬 Ask me about Python, Full-Stack, AI assistant, CV, NLP, LLM, ChatGPT, LangChain...
+
+## 🛠 Skills
+
+- Python
+- AI & Machine Learning
+- JavaScript
+- TypeScript
+- React
+- Node.js
+- Angular
+- HTML
+- CSS
+- SQL
+- MongoDB
+- Golang
+- Java
+- PHP
+- C#
+- Vue
+
+## 📈 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yehorgrue&show_icons=true&theme=radical)
